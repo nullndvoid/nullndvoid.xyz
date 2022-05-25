@@ -1,7 +1,7 @@
 ---
 title: "A Test Post"
 date: 2022-05-24T21:06:40+01:00
-draft: true
+draft: false
 ---
 
 This is a test post which will feature various features of markdown as well as how my stylesheets look.
