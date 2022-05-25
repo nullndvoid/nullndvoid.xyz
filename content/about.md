@@ -77,4 +77,4 @@ You can contact me at these places, I may not be very active on some:
 
 Get notified by signing into your Matrix account, otherwise provide a name below:
 
-{{< chat test-comments >}}
+{{< chat about-contact >}}
