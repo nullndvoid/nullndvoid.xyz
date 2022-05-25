@@ -1,0 +1,3 @@
+[submodule "themes/yabasic"]
+	path = themes/yabasic
+	url = https://github.com/nullndvoid/yabasic

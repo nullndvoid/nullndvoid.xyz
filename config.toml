@@ -1,0 +1,18 @@
+baseURL = 'https://nullndvoid.xyz/'
+languageCode = ''
+title = 'nullndvoid'
+theme = 'yabasic'
+
+[menu]
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
