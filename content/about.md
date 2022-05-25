@@ -1,7 +1,8 @@
 ---
-title: "(In)frequently Asked Questions" # This doesn't matter because my theme doesn't show it
+title: "Infrequently Asked Questions"
 date: 2022-05-24T21:37:11+01:00
 draft: false
+toc: true
 ---
 
 If for some strange reason you want my contact details, [check here](#about-anything-else).
@@ -55,13 +56,11 @@ I made the theme myself, I don't need much at the moment so it is incredibly sim
 
 I'm currently using the [Hugo](https://gohugo.io) static site generator, and I have used Zola in the past. 
 
-### The colours look funny
+### How can I use comments with JavaScript disabled?
 
-If you have any extensions to give sites a dark theme, please try toggling this site off.
+Any page with comments where you have disabled scripts will show a message displaying a Link to a Matrix room, as well as the room ID, however this creates a need for a Matrix account **(which you really should create)**
 
-### The colours still look funny
-
-Try using lynx.
+I don't know of a way for users with JavaScript enabled to hide the comments section/avoid loading it so I suppose you could disable JavaScript for this site.
 
 ## About anything else
 
@@ -71,10 +70,6 @@ You can contact me at these places, I may not be very active on some:
 * Discord (please don't use this) - [smiley#5012](https://discordapp.com/users/301427890694914049)
 * E-mail - [snim2042@gmail.com](mailto:snim2042@gmail.com)
 * GitHub - [nullndvoid](https://github.com/nullndvoid)
-* The comments here
+* The comments below
 
-## Comments, reaching out:
-
-Get notified by signing into your Matrix account, otherwise provide a name below:
-
-{{< chat about-contact >}}
+{{< chat contact-me >}}

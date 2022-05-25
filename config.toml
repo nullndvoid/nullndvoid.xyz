@@ -6,13 +6,36 @@ theme = 'yabasic'
 [menu]
 
 [[menu.main]]
-name = "Posts"
+name = "posts"
 url = "/posts"
 
 [[menu.main]]
-name = "About"
+name = "about"
 url = "/about"
 
 [[menu.main]]
-name = "Projects"
+name = "projects"
 url = "/projects"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false
